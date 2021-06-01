@@ -116,8 +116,10 @@ p, li {
 	margin-top: 20px;
 	padding: 50px 0;
 	color: #3c3c3c;
-	background-color: #3c3c3c;
 }
+
+
+
 .heading-icon{
 	margin-top: 79px;
 	position: relative;
@@ -155,6 +157,8 @@ p.text-center.sub-text {
 	text-decoration: none;
 	background-color: transparent;
 }
+
+
 @media (min-width: 991px){
 .navbar .nav,
 .navbar .nav > li {
@@ -171,6 +175,9 @@ p.text-center.sub-text {
 	overflow: visible!important;
 	visibility: visible!important;
 	text-align: center;
+	background-color: #3c3c3c;
+	color: white;!important;
+	height: 500px;
 }
 .navbar-inner {
   text-align:center;
@@ -181,7 +188,8 @@ p.text-center.sub-text {
 .nav>li>a:focus, .nav>li>a:hover{
 	text-decoration: none;
 	background: none;
-	transition: .3s;
+	transition: .4s;
+	color: orange;
 }
 
 .header-white .search {
@@ -224,10 +232,11 @@ p.text-center.sub-text {
 }
 
 ul.nav.navbar-nav li a{
-	color:white;
-	text-transform: uppercase;
+	font-family: "Arial";
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 23px;
+	color: #FFF6F6;
+	margin-left: 5%;
 }
 .logo {
 	position: relative;
