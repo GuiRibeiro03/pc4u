@@ -46,6 +46,8 @@
 		    <span class="sr-only">Next</span>
 		  </a>
 		</div>
+
+
     <div class="container header-start text-center">
         <div class="heading-icon">
           <i class="fa fa-3x fa-heart"></i>
