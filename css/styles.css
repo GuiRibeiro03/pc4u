@@ -30,7 +30,7 @@ divider {
 	position: relative;
 	top: 29%;
 	font-size: 35px;
-<<<<<<< HEAD
+
 	text-align: center;
 	margin-bottom: 40px;
 =======
@@ -1115,7 +1115,7 @@ button.button-info {
 	border: 1px solid #0C93B2;
 	position: relative;
 	display: block;
-	background:url(../img/white.jpg);
+	background-color: #ffffff;
 	padding: 28px 23px 31px;
 }
 @media (max-width:1100px){
