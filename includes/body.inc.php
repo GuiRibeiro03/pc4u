@@ -27,9 +27,6 @@ function top(){
 <body>
 <div class="header container">
     <div class="visible-xs visible-sm col-xs-12 col-sm-12 text-center sm-logo">
-        <a rel="home" href="index.html">
-            <img src="img/logo.png" width="200" alt="logo">
-        </a>
     </div>
 </div>
 <div class="navbar" role="navigation">
