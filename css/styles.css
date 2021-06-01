@@ -47,7 +47,7 @@ divider {
 	border-bottom: 2px solid;
 }
 body {
-	background: rgba(153, 211, 213, 0.32);
+	background: #3c3c3c;
 	margin: 0px;
 	padding: 0px;
 	font-family: 'Varela Round', sans-serif;
@@ -143,7 +143,7 @@ p.text-center.sub-text {
 	max-width: 600px !important;
 }
  li.selected a{
-	color: black !important;
+	color: orange !important;
 }
 .nav .open>a, .nav .open>a:focus, .open>a:hover{
 	background:none !important;
@@ -222,14 +222,14 @@ p.text-center.sub-text {
 }
 
 ul.nav.navbar-nav li a{
-	color:#2494A0;
+	color:white;
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 15px;
 }
 .logo {
 	position: relative;
-	top: -47px;
+	top: -25px;
 	left: 5px;
 	border-bottom: none;
 }
@@ -272,7 +272,7 @@ ul.nav.navbar-nav li a{
 }
 
 .stat {
-   padding:150px auto;
+   padding:150px;
    text-align:center;
 }
 .highlight {
