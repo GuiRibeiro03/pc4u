@@ -46,6 +46,7 @@ divider {
 	font-weight: bold;
 	border-bottom: 2px solid;
 }
+
 body {
 	background: #FFF6F6;
 	margin: 0px;
@@ -53,6 +54,8 @@ body {
 	font-family: 'Varela Round', sans-serif;
 	color: orangered;
 }
+
+
 
 
 
@@ -176,9 +179,11 @@ p.text-center.sub-text {
 	visibility: visible!important;
 	text-align: center;
 	background-color: #3c3c3c;
-	color: white;!important;
+	color: orange;!important;!important;
 	height: 500px;
+	text-decoration: none;
 }
+
 .navbar-inner {
   text-align:center;
 }
@@ -189,7 +194,7 @@ p.text-center.sub-text {
 	text-decoration: none;
 	background: none;
 	transition: .4s;
-	color: orange;
+	color: white;
 }
 
 .header-white .search {
@@ -232,10 +237,10 @@ p.text-center.sub-text {
 }
 
 ul.nav.navbar-nav li a{
-	font-family: "Arial";
+	font-family: "Open Sans", sans-serif;
+	text-transform: uppercase;
 	font-weight: bold;
-	font-size: 23px;
-	color: #FFF6F6;
+	font-size: 20px;
 	margin-left: 5%;
 }
 .logo {
