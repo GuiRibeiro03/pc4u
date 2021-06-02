@@ -53,6 +53,9 @@ body {
 	padding: 0px;
 	font-family: 'Trebuchet MS', sans-serif;
 	color: #fc8403;
+	overflow-x: hidden;
+	width: 100%;
+	height: 100%;
 }
 
 .container{
