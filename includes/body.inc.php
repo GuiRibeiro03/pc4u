@@ -42,10 +42,10 @@ function top(){
         </ul>
         <ul class="nav navbar-nav" style="padding-left: 10%">
             <li><a href="index.php" style="color: orange;text-decoration: none;">INÍCIO</a></li>
-            <li><a href="about.html" style="color: orange;text-decoration: none;">SOBRE NÓS</a></li>
-            <li><a href="gallery.html" style="color: orange;text-decoration: none;">GAMAS</a></li>
-            <li><a href="gallery.html" style="color: orange;text-decoration: none;">CATALOGO</a></li>
-            <li><a href="contact.html" style="color: orange; text-decoration: none;">Contact</a></li>
+            <li><a href="about.php" style="color: orange;text-decoration: none;">SOBRE NÓS</a></li>
+            <li><a href="gamas.php" style="color: orange;text-decoration: none;">GAMAS</a></li>
+            <li><a href="gamas.php" style="color: orange;text-decoration: none;">CATALOGO</a></li>
+            <li><a href="contact.html" style="color: orange; text-decoration: none;">Contactos</a></li>
         </ul>
 
     </div>
@@ -74,10 +74,10 @@ function bot(){
         <div class="footer-second col-xs-12 col-sm-4 col-md-4">
             <div class="social-block text-center">
                 <div class="social-share">
-                    <i class="fa fa-2x fa-facebook"></i>
-                    <i class="fa fa-2x  fa-twitter"></i>
-                    <i class="fa fa-2x  fa-google-plus"></i>
-                    <i class="fa fa-2x  fa-instagram"></i>
+                    <i class="fa fa-2x fa-facebook" id="fb"></i>
+                    <i class="fa fa-2x  fa-twitter" id="tt"></i>
+                    <i class="fa fa-2x  fa-google-plus"id="gl"></i>
+                    <i class="fa fa-2x  fa-instagram" id="insta"></i>
                 </div>
             </div>
             <p class="text-center footer-text1">123 456 7890</p>

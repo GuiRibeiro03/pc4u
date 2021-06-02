@@ -29,7 +29,7 @@ divider {
 .header-text {
 	position: relative;
 	top: 29%;
-	font-size: 35px;
+	font-size: 50px;
 
 	text-align: center;
 	margin-bottom: 40px;
@@ -55,7 +55,9 @@ body {
 	color: orangered;
 }
 
-
+.container{
+	padding: 5% 5% 5% 5%;
+}
 
 
 
@@ -63,7 +65,7 @@ body {
 margin-bottom: 49px;
 }
 
-p, li {
+ li {
 	padding: 0;
 	font-family: 'Raleway',sans-serif;
 	font-weight: 500;
@@ -73,6 +75,18 @@ p, li {
 	color: #666;
 	list-style: none;
 }
+
+
+ p{
+	 padding: 0;
+	 font-family: 'Raleway',sans-serif;
+	 font-weight: 500;
+	 font-size: 25px;
+	 line-height: 1.6;
+	 color: #666;
+ 	width: 100%;
+ }
+
 /******* End General ******/
 
 /*-------------------------------------------------------------------------------------------------------------------------------*/
@@ -228,9 +242,25 @@ p.text-center.sub-text {
 .social-share  .fa:hover{
 	cursor:pointer;
 	color: white;
-	background: #2494A0;
 	transition:.3s;
+
 }
+
+
+#fb .social-share .fa:hover{
+	background-color: #0A5175;
+}
+
+#tt .social-share .fa:hover{
+	background-color: #3b8af2;
+}
+#gl .social-share .fa:hover{
+	background-color: red;
+}
+#insta .social-share .fa:hover{
+	background-color: hotpink;
+}
+
 .fa-2x{
 	padding-right: 20px;
 }
@@ -1172,8 +1202,9 @@ footer{
 	float: left;
 	width: 100%;
 	overflow: hidden;
-	background: #395B71;
+	background: #0d0d0d;
 	color: white;
+
 }
 .footer-menus li{
 	cursor: pointer;

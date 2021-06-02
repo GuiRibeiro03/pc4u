@@ -7,11 +7,9 @@ top(MARCA);
             <div class="header-text">Sobre a Marca</div>
         </div>
 
-		 <div class="container">
-             <div class="col-md-2">
+		 <div class="container" >
 
-             </div>
-                <div class="col-md-8">
+                <div  style="width: 100%; font-size: 25px; text-align: justify">
                     <p>A PC4U é uma marca da Ink Place, totalmente portuguesa e é assemblada e comercializada pela PC Farma.
 
                     <p> Criada em 2004, a PC4U nasceu com o propósito de se tornar uma marca com uma oferta sólida e fiável e apoiada no conhecimento adquirido na reparação de equipamentos.
@@ -26,12 +24,6 @@ top(MARCA);
                     <p> O que a nossa marca quer transmitir?
                         Confiança, Fiabilidade e Inovação.</p>
                 </div>
-             <div class="col-md-2">
-
-             </div>
-
-
-
             </div><!-- END ROW -->
 
 
