@@ -36,15 +36,12 @@ function top(){
     <div class="collapse navbar-collapse" style="background-color: #0d0d0d">
         <ul class="nav navbar-nav">
             <li ><a href="index.php">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="service.html">Sevices</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="about.html">Marca</a></li>
             <li class= "hidden-xs hidden-sm">
                 <a rel="home" href="index.php"><img class="logo" src="img/logo.png" width="200" alt="logo"></a>
             </li>
-            <li><a href="event.html">Events</a></li>
-            <li><a href="team.html">Team</a></li>
-            <li><a href="donate.html">Donate</a></li>
+            <li><a href="donate.html">Gamas</a></li>
+            <li><a href="donate.html">Catálogo</a></li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </div>
