@@ -9,13 +9,13 @@
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/bg.jpg" class="d-block w-100" alt="...">
+            <img src="img/slide3.jpg" class="d-block w-100 " alt="..." style="height: 800px">
         </div>
         <div class="carousel-item">
-            <img src="img/slide1.jpg" class="d-block w-100" alt="...">
+            <img src="img/slide1.jpg" class="d-block w-100" alt="..." style="height: 800px">
         </div>
         <div class="carousel-item">
-            <img src="img/slide2.jpg" class="d-block w-100  " alt="...">
+            <img src="img/slide2.jpg" class="d-block w-100  " alt="..." style="height:800px">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -30,15 +30,16 @@
 
 
     <div class="container header-start text-center">
-        <div class="heading-icon">
-          <i class="fa fa-3x fa-heart"></i>
-        </div>
-      <h1 class="main-text">Show your Love for the Humanity</h1>
-      <p class="text-center sub-text"><em class="first-line">Lorem ipsum dolor sit amet, consectetur adipisiciSng elit, sed do eiusmod tempor </em><em class="next-line"> incididunt ut labore et dolore magna aliqua.A sed do eiusmod tempor incididunt ut labore et dolore magna.</em></p>
+
+          <img src="img/logo.png" style="width: 300px; height: 150px; margin-bottom: 2%">
+
+      <h1 class="main-text" style="font-size: 45px; text-shadow: 1px 1px 1px #000000">As melhores máquinas no mercado</h1>
+        <br>
+    <a href="about.php"> <button type="button" id="botaoMais" >Saber Mais &nbsp;<i class="fa fa-arrow-right"></i></button></a>
     </div>
 
     <div class="divider col-sm-12 col-xs-12 col-md-12">
-      <div class="header-text"><span>Blog</span> News</div>
+      <div class="header-text">Produtos Em Destaque</div>
     </div>
 
 			<section class="blog">
@@ -49,14 +50,13 @@
                 <span class="layer-block"></span>
              </a>
               <div class="editor-choice">
-                  <i class="fa fa-star"></i>
-                  <a href="#">Editor’s Choice</a>
+                  <a href="#" style="color: white; text-decoration: none;font-size: 14px;font-weight: bold">Destaque</a>
               </div>
             <div class="content-block">
               <span class="point-caption bg-blue-point"></span>
               <span class="bottom-line bg-blue-point"></span>
-                <h4>Discovering OM: A visit back to The Vedas</h4>
-                <p>Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
+                <h1>Discovering OM: A visit back to The Vedas</h1>
+                <p style="font-size: 18px">Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
                 <div class="button-main bg-fio-point">read more</div>
                  <div class="like-wrap">
                      <a href="#"><i class="fa fa-heart col-red"></i></a><span>224</span>
@@ -72,14 +72,14 @@
                     <span class="layer-block"></span>
                  </a>
                   <div class="editor-choice">
-                      <i class="fa fa-star"></i>
-                      <a href="#">Editor’s Choice</a>
+
+                      <a href="#" style="color: white; text-decoration: none;font-size: 14px;font-weight: bold">Destaque</a>
                   </div>
                 <div class="content-block">
                   <span class="point-caption bg-blue-point"></span>
                   <span class="bottom-line bg-blue-point"></span>
-                    <h4>Discovering OM: A visit back to The Vedas</h4>
-                    <p>Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
+                    <h1>Discovering OM: A visit back to The Vedas</h1>
+                    <p style="font-size: 18px">Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
                     <div class="button-main bg-fio-point">read more</div>
                        <div class="like-wrap">
                            <a href="#"><i class="fa fa-heart col-red"></i></a><span>224</span>
@@ -95,14 +95,13 @@
                           <span class="layer-block"></span>
                        </a>
                         <div class="editor-choice">
-                            <i class="fa fa-star"></i>
-                            <a href="#">Editor’s Choice</a>
+                            <a href="#" style="color: white; text-decoration: none;font-size: 14px; font-weight: bold">Destaque</a>
                         </div>
                     <div class="content-block">
                       <span class="point-caption bg-blue-point"></span>
                       <span class="bottom-line bg-blue-point"></span>
-                        <h4>Discovering OM: A visit back to The Vedas</h4>
-                        <p>Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
+                        <h1 >Discovering OM: A visit back to The Vedas</h1>
+                        <p style="font-size: 18px">Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
                         <div class="button-main bg-fio-point">read more</div>
                          <div class="like-wrap">
                              <a href="#"><i class="fa fa-heart col-red"></i></a><span>224</span>

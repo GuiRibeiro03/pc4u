@@ -33,7 +33,7 @@ function top(){
 
 
 <body>
-<div class="navbar" role="navigation" style="height: 130px; background-color: #0d0d0d">
+<div class="navbar" role="navigation" style="height: 130px; background-color: #0d0d0d; padding-top: 2%">
     <div class="collapse navbar-collapse" style="background-color: #0d0d0d">
         <ul class="nav navbar-nav">
             <li class= "hidden-xs hidden-sm" style="float: left">

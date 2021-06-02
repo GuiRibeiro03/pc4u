@@ -4,7 +4,7 @@ top(MARCA);
 ?>
 
 		<div class="divider col-sm-12 col-xs-12 col-md-12">
-            <div class="header-text">Sobre a Marca</div>
+            <div class="header-text" style="text-shadow: 1px 1px 1px #000000; color: orange">Sobre a Marca</div>
         </div>
 
 		 <div class="container" >
