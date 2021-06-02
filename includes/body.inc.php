@@ -1,6 +1,6 @@
 <?php
 include_once ("config.inc.php");
-function top(){
+function top($menu = HOME){
 ?>
 
 
@@ -35,14 +35,14 @@ function top(){
 <div class="navbar" role="navigation" style="height: 130px; background-color: #0d0d0d">
     <div class="collapse navbar-collapse" style="background-color: #0d0d0d">
         <ul class="nav navbar-nav">
-            <li ><a href="index.php">Home</a></li>
-            <li><a href="about.html">Marca</a></li>
+            <li <?php if ($menu == HOME) echo "class=\"active\""; ?> ><a href="index.php">Home</a></li>
+            <li <?php if ($menu == MARCA) echo "class=\"active\""; ?>><a href="about.php">Marca</a></li>
             <li class= "hidden-xs hidden-sm">
                 <a rel="home" href="index.php"><img class="logo" src="img/logo.png" width="200" alt="logo"></a>
             </li>
-            <li><a href="donate.html">Gamas</a></li>
-            <li><a href="donate.html">Catálogo</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li <?php if ($menu == GAMAS) echo "class=\"active\""; ?>><a href="donate.html">Gamas</a></li>
+            <li <?php if ($menu == CATALOGO) echo "class=\"active\""; ?>><a href="donate.html">Catálogo</a></li>
+            <li <?php if ($menu == CONTACTO) echo "class=\"active\""; ?>><a href="contact.html">Contact</a></li>
         </ul>
     </div>
 </div>
