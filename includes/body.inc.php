@@ -14,6 +14,7 @@ function top(){
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="icon" href="img/favicon.ico">
     <!--[if lt IE 9]>
     <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -35,18 +36,18 @@ function top(){
 <div class="navbar" role="navigation" style="height: 130px; background-color: #0d0d0d">
     <div class="collapse navbar-collapse" style="background-color: #0d0d0d">
         <ul class="nav navbar-nav">
-            <li ><a href="index.php">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="service.html">Sevices</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-            <li class= "hidden-xs hidden-sm">
-                <a rel="home" href="index.php"><img class="logo" src="img/logo.png" width="200" alt="logo"></a>
+            <li class= "hidden-xs hidden-sm" style="float: left">
+                <a rel="home" href="index.php"><img class="logo" src="img/logo.png" width="250" alt="logo"></a>
             </li>
-            <li><a href="event.html">Events</a></li>
-            <li><a href="team.html">Team</a></li>
-            <li><a href="donate.html">Donate</a></li>
-            <li><a href="contact.html">Contact</a></li>
         </ul>
+        <ul class="nav navbar-nav" style="padding-left: 10%">
+            <li><a href="index.php" style="color: orange;text-decoration: none;">INÍCIO</a></li>
+            <li><a href="about.html" style="color: orange;text-decoration: none;">SOBRE NÓS</a></li>
+            <li><a href="gallery.html" style="color: orange;text-decoration: none;">GAMAS</a></li>
+            <li><a href="gallery.html" style="color: orange;text-decoration: none;">CATALOGO</a></li>
+            <li><a href="contact.html" style="color: orange; text-decoration: none;">Contact</a></li>
+        </ul>
+
     </div>
 </div>
 

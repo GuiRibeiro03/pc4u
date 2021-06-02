@@ -66,7 +66,8 @@ margin-bottom: 49px;
 p, li {
 	padding: 0;
 	font-family: 'Raleway',sans-serif;
-	font-weight: 300;
+	font-weight: 500;
+	width: 200px;
 	font-size: 14px;
 	line-height: 28px;
 	color: #666;
@@ -181,6 +182,7 @@ p.text-center.sub-text {
 	background-color: #3c3c3c;
 	color: orange;!important;!important;
 	height: 500px;
+	width: 100%;
 	text-decoration: none;
 }
 
