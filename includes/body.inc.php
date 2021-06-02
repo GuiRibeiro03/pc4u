@@ -32,20 +32,20 @@ function top(){
 
 
 <body>
-<div class="navbar" role="navigation" style="height: 130px; background-color: #0d0d0d;color: white!important;">
-    <div class="collapse navbar-collapse" style="background-color: #0d0d0d;color: white!important;">
-        <ul class="nav navbar-nav" style="color: orange!important;text-decoration: none;">
-            <li><a href="index.php" style="color: orange!important;text-decoration: none;">Home</a></li>
-            <li><a href="about.html" style="color: orange!important;text-decoration: none;">About</a></li>
-            <li><a href="service.html" style="color: orange!important;text-decoration: none;">Sevices</a></li>
-            <li><a href="gallery.html" style="color: orange!important;text-decoration: none;">Gallery</a></li>
+<div class="navbar" role="navigation" style="height: 130px; background-color: #0d0d0d">
+    <div class="collapse navbar-collapse" style="background-color: #0d0d0d">
+        <ul class="nav navbar-nav">
+            <li ><a href="index.php">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="service.html">Sevices</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
             <li class= "hidden-xs hidden-sm">
                 <a rel="home" href="index.php"><img class="logo" src="img/logo.png" width="200" alt="logo"></a>
             </li>
-            <li><a href="event.html" style="color: orange!important;text-decoration: none;">Events</a></li>
-            <li><a href="team.html" style="color: orange!important;text-decoration: none;">Team</a></li>
-            <li><a href="donate.html" style="color: orange!important;text-decoration: none;">Donate</a></li>
-            <li><a href="contact.html" style="color: orange!important;text-decoration: none;">Contact</a></li>
+            <li><a href="event.html">Events</a></li>
+            <li><a href="team.html">Team</a></li>
+            <li><a href="donate.html">Donate</a></li>
+            <li><a href="contact.html">Contact</a></li>
         </ul>
     </div>
 </div>
