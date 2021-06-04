@@ -21,9 +21,8 @@ top(GAMAS);
                     <div class="col-md-4 mt-5">
                         <img class="logo" src="img/aquaLogo.png" alt="logo" width="250">
                     </div>
-                    <div class="header-text"><h2 style="font-size: 50px; float:left; color:darkturquoise;">Aqua</h2>
-                    </div>
-                    <div class="col-md-6" style="text-align: left; margin-top: 20px">
+
+                    <div class="col-md-6" style="text-align: right; margin-top: 20px">
                         <p>sadsdadsadsdsadasdasdsadasdsa</p>
                     </div>
                 </div>
@@ -42,11 +41,11 @@ top(GAMAS);
 
                 </div>
                 <div class="container" style="outline: solid 3px goldenrod">
-                    <div class="header-text"><h2 style="font-size: 50px; float:left; color:goldenrod;">Magna</h2>
-                    </div>
+
                     <div class="col-md-6" style="text-align: left; margin-top: 20px">
                         <p>sadsdadsadsdsadasdasdsadasdsa</p>
                     </div>
+
                     <div class="col-md-4 mt-5">
                         <img class="logo" src="img/magna.png" alt="logo" width="250">
                     </div>
@@ -70,11 +69,10 @@ top(GAMAS);
                     <div class="col-md-4 mt-5">
                         <img class="logo" src="img/rok.png" alt="logo" width="250">
                     </div>
-                    <div class="header-text"><h2 style="font-size: 40px; float:left; color:gold;">RoK</h2>
-                    </div>
-                    <div class="col-md-6" style="text-align: left; margin-top: 20px; width: 2000px">
-                        <p>sadsdadsadsdsadasdasdsadasdsaadsdadsadsdsadasdasdsadasdsaadsdadsadsdsadasdasdsadasdsaadsdadsadsdsa</p>
-                        <p> dasdasdsadasdsaadsdadsadsdsadasdasdsadasdsaadsdadsadsdsadasdasdsadasdsaadsdadsadsdsadasdasdsadasdsaadsdadsadsdsadasdasdsadasdsaadsdadsadsdsadasdasdsadasdsa</p>
+
+                    <div class="col-md-6" style="text-align: right; margin-top: 20px;">
+                        <p>sadsdadsadsdsadasdasdsadasdsaadsdadsadsdsadasd</p>
+
                     </div>
                     </div>
                     <div class="col-md-1">
@@ -84,9 +82,26 @@ top(GAMAS);
             <!-- ------------END: ROK---------------------- -->
 
 
+            <!-- ------------Start: FORTIS---------------------- -->
+            <div class="container">
+                <div class="col-md-1">
 
+                </div>
+                <div class="container" style="outline: solid 3px mediumaquamarine">
 
+                    <div class="col-md-6" style="text-align: left; margin-top: 20px">
+                        <p>sadsdadsadsdsadasdasdsadasdsa</p>
+                    </div>
 
+                    <div class="col-md-4 mt-5">
+                        <img class="logo" src="img/fortis.png" alt="logo" width="250">
+                    </div>
+                </div>
+                <div class="col-md-1">
+
+                </div>
+            </div>
+            <!-- ------------END: FORTIS---------------------- -->
 
 
             </div>

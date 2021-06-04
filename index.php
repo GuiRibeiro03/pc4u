@@ -9,13 +9,19 @@
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/slide3.jpg" class="d-block w-100 " alt="..." style="height: 800px">
+            <img src="img/slide.png" class="d-block w-100 " alt="..." style="height: 800px">
+        </div>
+        <div class="carousel-item active">
+            <img src="img/slide1.jpg" class="d-block w-100 " alt="..." style="height: 800px">
         </div>
         <div class="carousel-item">
-            <img src="img/slide1.jpg" class="d-block w-100" alt="..." style="height: 800px">
+            <img src="img/slide2.jpg" class="d-block w-100" alt="..." style="height: 800px">
         </div>
         <div class="carousel-item">
-            <img src="img/slide2.jpg" class="d-block w-100  " alt="..." style="height:800px">
+            <img src="img/slide3.jpg" class="d-block w-100  " alt="..." style="height:800px">
+        </div>
+        <div class="carousel-item">
+            <img src="img/slide4.jpg" class="d-block w-100  " alt="..." style="height:800px">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -35,7 +41,7 @@
 
       <h1 class="main-text" style="font-size: 45px; text-shadow: 1px 1px 1px #000000">As melhores máquinas no mercado</h1>
         <br>
-    <a href="about.php"> <button type="button" id="botaoMais" >Saber Mais &nbsp;<i class="fa fa-arrow-right"></i></button></a>
+    <a href="gamas.php"> <button type="button" id="botaoMais" >Saber Mais &nbsp;<i class="fa fa-arrow-right"></i></button></a>
     </div>
 
     <div class="divider col-sm-12 col-xs-12 col-md-12">

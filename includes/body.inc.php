@@ -84,8 +84,11 @@ function bot(){
             <p class="text-center footer-text">humanity@shuvohabib.com</p></div>
         <div class="footer-third col-xs-12 col-sm-4 col-md-4">
             <div class="copyright">
-                <span>Copyright 2014 Theme</span><br>
+                <span>© 2014 Theme</span><br>
                 <span>All Rights Reserved</span>
+                <br>
+                <span>© PC4U Systems 2019 </span><br>
+                <span>Todos os direitos reservados.</span>
             </div>
         </div>
     </div>
