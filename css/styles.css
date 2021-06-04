@@ -26,6 +26,30 @@ divider {
 	color: white;
 	background: url(../images/divider.jpg) no-repeat fixed center;
 }
+.a2{
+	color: black;
+
+}
+.a2:hover{
+	color: orange;
+}
+
+.selecao {
+	display: inline-block;
+	color: black;
+	font-size: 18px;
+	letter-spacing: 0.2px;
+	margin-right: 14px;
+	line-height: 32px;
+	margin-top: 10px;
+}
+.centrinho{
+	display: inline;
+	width: 280px;
+	height: 250px;
+
+
+}
 .header-text {
 	position: relative;
 	top: 29%;
