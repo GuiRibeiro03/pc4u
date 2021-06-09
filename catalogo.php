@@ -10,8 +10,8 @@ top(CATALOGO);
     <div class="inner team">
         <div class="container">
             <div class="row">
-                <div class="col-lg-9">
-                    <div class="col-lg-8">
+                <div class="col-lg-12">
+                    <div class="col-lg-6">
                         <p>Mostrar 1-12 de 15 resultados</p>
                     </div>
                     <div class="col-lg-4">
@@ -22,6 +22,9 @@ top(CATALOGO);
                         <option>Ordenar por preço: menor para maior</option>
                         <option>Ordenar por preço: maior para menor</option>
                         </select>
+                    </div>
+                    <div class="col-lg-2">
+                    <input type="text" placeholder="Procurar" style="margin-top: 5px; font-size: 20px">
                     </div>
                 </div>
                 <div class="col-lg-10">
@@ -44,10 +47,7 @@ top(CATALOGO);
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/2.jpg">
-
-                            </div>
-                            <div class="arrange-text">
-                                <h5>asdadad</h5>
+                                <h5 class="mt-2">asuu77u7dadad</h5>
                             </div>
                         </a>
                     </div>
@@ -104,6 +104,7 @@ top(CATALOGO);
                         </a>
                     </div>
                 </div>
+
             </div>
         </div>
     </div><!-- End Team Inner -->

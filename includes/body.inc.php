@@ -44,7 +44,7 @@ function top(){
             <li><a href="index.php" style="color: orange;text-decoration: none;">INÍCIO</a></li>
             <li><a href="about.php" style="color: orange;text-decoration: none;">SOBRE NÓS</a></li>
             <li><a href="gamas.php" style="color: orange;text-decoration: none;">GAMAS</a></li>
-            <li><a href="catalogo.php" style="color: orange;text-decoration: none;">CATALOGO</a></li>
+            <li><a href="catalogo.php" style="color: orange;text-decoration: none;">CATÁLOGO</a></li>
             <li><a href="contact.html" style="color: orange; text-decoration: none;">Contactos</a></li>
         </ul>
 
