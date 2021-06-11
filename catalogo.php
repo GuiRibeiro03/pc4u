@@ -28,81 +28,73 @@ top(CATALOGO);
                     </div>
                 </div>
                 <div class="col-lg-10">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 mt-3">
                         <a class="a2"
-                           href="single-listing.php?id=">
+                           href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/1.jpg">
-                            </div>
-                            <div class="textinho">
-                                <h5>PCBOX GAMER SPECIAL EDITION H500P XSERIES</h5>
-
+                                <h5 class="mt-3" >PCBOX GAMER SPECIAL EDITION H500P XSERIES</h5>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 mt-3">
                         <a class="arrange-items"
-                           href="single-listing.php?id=>">
+                           href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/2.jpg">
-                                <h5 class="mt-2">asuu77u7dadad</h5>
+                                <h5 class="mt-3">asuu77u7dadad</h5>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 ">
+                    <div class="col-lg-4 mt-3">
                         <a class="arrange-items"
-                           href="single-listing.php?id=>">
+                           href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/3.jpg"
                                      alt="">
-                            </div>
-                            <div class="arrange-text">
-                                <h5>asdadad</h5>
+                                <h5 class="mt-3">asdadad</h5>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 ">
+                    <div class="col-lg-4 mt-3">
                         <a class="arrange-items"
-                           href="single-listing.php?id=>">
+                           href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
-                                     src="img/1.jpg"
+                                     src="img/3.jpg"
                                      alt="">
-                            </div>
-                            <div class="arrange-text">
-                                <h5>asdadad</h5>
+                                <h5 class="mt-3">asdadad</h5>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 ">
+                    <div class="col-lg-4 mt-3">
                         <a class="arrange-items"
-                           href="single-listing.php?id=>">
+                           href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
-                                     src="img/1.jpg"
+                                     src="img/3.jpg"
                                      alt="">
-                            </div>
-                            <div class="arrange-text">
-                                <h5>asdadad</h5>
+                                <h5 class="mt-3">asdadad</h5>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 mt-3 ">
                         <a class="arrange-items"
-                           href="single-listing.php?id=>">
+                           href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
-                                     src="img/1.jpg"
+                                     src="img/3.jpg"
                                      alt="">
-                            </div>
-                            <div class="arrange-text">
-                                <h5>asdadad</h5>
+                                <h5 class="mt-3">asdadad</h5>
                             </div>
                         </a>
                     </div>
+                </div>
+                <div class="col-lg-2">
+
                 </div>
 
             </div>

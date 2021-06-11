@@ -50,6 +50,12 @@ divider {
 
 
 }
+.grandinho{
+	display: inline;
+	width: 480px;
+	height: 350px;
+
+}
 .header-text {
 	position: relative;
 	top: 29%;
