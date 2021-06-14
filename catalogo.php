@@ -34,64 +34,95 @@ top(CATALOGO);
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/1.jpg">
-                                <h5 class="mt-3" >PCBOX GAMER SPECIAL EDITION H500P XSERIES</h5>
+                                <h4 class="mt-3" >AQUA G</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 mt-3">
-                        <a class="arrange-items"
+                        <a class="a2"
                            href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/2.jpg">
-                                <h5 class="mt-3">asuu77u7dadad</h5>
+                                <h4 class="mt-3">AQUA I</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 mt-3">
-                        <a class="arrange-items"
+                        <a class="a2"
                            href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/3.jpg"
                                      alt="">
-                                <h5 class="mt-3">asdadad</h5>
+                                <h4 class="mt-3">FORTIS G</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 mt-3">
-                        <a class="arrange-items"
+                        <a class="a2"
                            href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/3.jpg"
                                      alt="">
-                                <h5 class="mt-3">asdadad</h5>
+                                <h4 class="mt-3">FORTIS I</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 mt-3">
-                        <a class="arrange-items"
+                        <a class="a2"
                            href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/3.jpg"
                                      alt="">
-                                <h5 class="mt-3">asdadad</h5>
+                                <h4 class="mt-3">RoK I</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 mt-3 ">
-                        <a class="arrange-items"
+                        <a class="a2"
                            href="produto.php">
                             <div class="arrange-pic">
                                 <img class="centrinho"
                                      src="img/3.jpg"
                                      alt="">
-                                <h5 class="mt-3">asdadad</h5>
+                                <h4 class="mt-3">RoK II</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
                             </div>
                         </a>
                     </div>
+                    <div class="col-lg-4 mt-3 ">
+                        <a class="a2"
+                           href="produto.php">
+                            <div class="arrange-pic">
+                                <img class="centrinho"
+                                     src="img/3.jpg"
+                                     alt="">
+                                <h4 class="mt-3">MAGNA Basic</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 mt-3 ">
+                        <a class="a2"
+                           href="produto.php">
+                            <div class="arrange-pic">
+                                <img class="centrinho"
+                                     src="img/3.jpg"
+                                     alt="">
+                                <h4 class="mt-3">MAGNA Premium</h4>
+                                <h4 class="mt-1" >1330,99€</h4>
+                            </div>
+                        </a>
+                    </div>
+
                 </div>
                 <div class="col-lg-2">
 

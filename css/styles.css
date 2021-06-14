@@ -26,12 +26,21 @@ divider {
 	color: white;
 	background: url(../images/divider.jpg) no-repeat fixed center;
 }
+
+
+.buttona{
+	margin: 0;
+	font-family: inherit;
+	font-size: 30px;
+	line-height: inherit;
+}
 .a2{
 	color: black;
-
+	text-decoration: none;
 }
 .a2:hover{
 	color: orange;
+	text-decoration: none;
 }
 
 .selecao {
